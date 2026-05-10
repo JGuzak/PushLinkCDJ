@@ -1,6 +1,6 @@
 [submodule "external/link"]
 	path = external/link
 	url = https://github.com/Ableton/link.git
-[submodule "external/Push3Compiler"]
-	path = external/Push3Compiler
-	url = https://github.com/JGuzak/Push3Compiler.git
+[submodule "external/push-dev"]
+	path = external/push-dev
+	url = https://github.com/JGuzak/push-dev.git
